@@ -52,10 +52,6 @@
     {
       "type": "vcs",
       "url": "git@github.com:wpindi/wp-rocket-no-cache.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:wpindi/soil-activate.git"
     }
   ],
   "require": {
@@ -75,9 +71,7 @@
     "wpindi/insight-core": "master",
     "wpindi/elementor-pro": "master",
     "wpindi/wp-rocket": "master",
-    "wpindi/wp-rocket-no-cache": "master",
-    "wpindi/soil-activate": "master",
-    "roots/soil": "^3.9"
+    "wpindi/wp-rocket-no-cache": "master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.4",
