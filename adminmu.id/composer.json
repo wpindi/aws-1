@@ -48,6 +48,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:wpindi/wp-rocket-no-cache.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:wpindi/soil-activate.git"
     }
   ],
   "require": {
@@ -73,6 +77,7 @@
     "wpindi/radiantthemes-addons": "master",
     "wpindi/wp-rocket": "master",
     "wpindi/wp-rocket-no-cache": "master",
+    "wpindi/soil-activate": "master",
     "roots/soil": "^3.9"
   },
   "require-dev": {
