@@ -1,0 +1,8 @@
+acme_tiny_challenges_directory: "{{ www_root }}/letsencrypt"
+env: development
+mysql_root_password: "{{ vault_mysql_root_password }}" # Define this variable in group_vars/development/vault.yml
+web_user: vagrant
+php_max_execution_time: 300
+php_max_input_time: 300
+php_memory_limit: 256M
+php_max_input_vars: 2000

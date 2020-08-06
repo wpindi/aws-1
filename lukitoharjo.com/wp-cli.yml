@@ -1,0 +1,8 @@
+path: web/wp
+
+@development:
+  ssh: vagrant@lukitoharjo.test/srv/www/lukitoharjo.com/current
+@staging:
+  ssh: web@staging.example.com/srv/www/example.com/current
+@production:
+  ssh: web@lukitoharjo.com/srv/www/lukitoharjo.com/current

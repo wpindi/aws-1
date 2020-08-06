@@ -1,0 +1,7 @@
+/* TEAM */
+Developer: WPIndi
+Site: https://wpindi.com
+Location: Yogyakarta, Indonesia.
+			
+/* SITE */                    
+Components: Wordpress, etc.
