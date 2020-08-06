@@ -8,7 +8,7 @@ DEVDIR="web/app/uploads/"
 DEVSITE="https://adminmu.test"
 
 PRODDIR="web@adminmu.id:/srv/www/adminmu.id/shared/uploads/"
-PRODSITE="https://example.com"
+PRODSITE="https://adminmu.id"
 
 STAGDIR="web@staging.example.com:/srv/www/example/shared/uploads/"
 STAGSITE="https://staging.example.com"

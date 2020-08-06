@@ -8,7 +8,7 @@ DEVDIR="web/app/uploads/"
 DEVSITE="https://lukitoharjo.test"
 
 PRODDIR="web@lukitoharjo.com:/srv/www/lukitoharjo.com/shared/uploads/"
-PRODSITE="https://example.com"
+PRODSITE="https://lukitoharjo.com"
 
 STAGDIR="web@staging.example.com:/srv/www/example/shared/uploads/"
 STAGSITE="https://staging.example.com"
